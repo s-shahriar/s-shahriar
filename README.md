@@ -14,6 +14,10 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 📩 Reach me at: syedshahriar99@gmail.com
 
+## Where to Find Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bin.omar.862852)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-shahriar/)
 
 <!--
 **s-shahriar/s-shahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
