@@ -16,15 +16,22 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 ## My Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee" alt="LeetCode Stats" style="margin-right: 10px;"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false" alt="s-shahriar's Streak" style="margin-left: 10px;"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee" alt="LeetCode Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false" alt="s-shahriar's Streak"/>
+    </td>
+  </tr>
+</table>
 
 ## Languages and Tools:
+
 <div align="center">
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
-  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/react/react.png">&nbsp;
   <img width=50px src="https://reactrouter.com/favicon-light.png">&nbsp;
   <img width=50px src="https://tanstack.com/images/ts-logo-shadow.svg">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/mongodb/mongodb.png">&nbsp;
@@ -34,8 +41,15 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
   <img width=50px src="https://daisyui.com/favicon.ico">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/redux/redux.png">&nbsp;
   <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/python/python.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/html/html.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/css/css.png">&nbsp;
+  <img width=50px src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">&nbsp;
+  <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp;
+  <img width=50px src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/2048px-Windows_logo_-_2012.svg.png">&nbsp;
+  <img width=50px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/visual-studio-code/visual-studio-code.png">
 </div>
-
 
 ## Where to Find Me
 
@@ -53,18 +67,3 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
     </td>
   </tr>
 </table>
-
-<!--
-**s-shahriar/s-shahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
