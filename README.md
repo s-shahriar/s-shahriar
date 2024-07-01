@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center">
   <img src="./Shahriar.png" alt="Header"/>
 </p>
