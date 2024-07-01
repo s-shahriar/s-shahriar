@@ -21,6 +21,22 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false" alt="s-shahriar's Streak" style="margin-left: 10px;"/>
 </p>
 
+## Languages and Tools:
+<div align="center">
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;&nbsp;&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;
+  <img width=50px src="https://reactrouter.com/favicon-light.png">&nbsp;
+  <img width=50px src="https://tanstack.com/images/ts-logo-shadow.svg">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/mongodb/mongodb.png">&nbsp;
+  <img width=50px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/express/express.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/tailwind/tailwind.png">&nbsp;
+  <img width=50px src="https://daisyui.com/favicon.ico">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/redux/redux.png">&nbsp;
+  <img width=50px src="https://raw.githubusercontent.com/github/explore/06c46459f84207d9412e22a1a0c86e811e51e5a6/topics/python/python.png">&nbsp;
+</div>
+
+
 ## Where to Find Me
 
 <table align="center">
