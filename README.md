@@ -10,16 +10,15 @@
 
 Driven by a passion for web development, I specialize in creating cutting-edge digital solutions using technologies like ReactJS. My skills include C, SQL, Python, and JavaScript.
 
-🤝 I mentor, organize tech events, and foster community growth. I’m seeking opportunities to apply my front-end expertise and problem-solving skills to drive your organization forward.
-🌟 I am actively exploring opportunities to apply my extensive Web Development expertise, precise problem-solving skills, and steadfast work ethic.
+🤝 I mentor, organize tech events, and foster community growth. I’m seeking opportunities to apply my front-end expertise and problem-solving skills to drive your organization forward. I am actively exploring opportunities to apply my extensive Web Development expertise, precise problem-solving skills, and steadfast work ethic.
 
 📩 Reach me at: syedshahriar99@gmail.com
 
 ## Daily Streak
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee" alt="LeetCode Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false" alt="s-shahriar's Streak"/>
+  <img src="https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee" alt="LeetCode Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false" alt="s-shahriar's Streak" height="200"/>
 </p>
 
 ## Where to Find Me
