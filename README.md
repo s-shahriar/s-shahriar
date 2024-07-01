@@ -15,7 +15,7 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 📩 Reach me at: syedshahriar99@gmail.com
 
 
-![s-shahriar's Stats](https://github-readme-stats.vercel.app/api?username=s-shahriar&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![LeetCode Stats](https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee)
 ![s-shahriar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false)
 ![s-shahriar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-shahriar&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
