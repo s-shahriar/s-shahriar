@@ -14,6 +14,12 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 📩 Reach me at: syedshahriar99@gmail.com
 
+
+![s-shahriar's Stats](https://github-readme-stats.vercel.app/api?username=s-shahriar&theme=dark&show_icons=true&hide_border=false&count_private=true)
+![s-shahriar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false)
+![s-shahriar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s-shahriar&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+
 ## Where to Find Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bin.omar.862852)
