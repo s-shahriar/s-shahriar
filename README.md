@@ -20,7 +20,7 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
       <img src="https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee" alt="LeetCode Stats"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false" alt="s-shahriar's Streak"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=true" alt="s-shahriar's Streak"/>
     </td>
   </tr>
 </table>
