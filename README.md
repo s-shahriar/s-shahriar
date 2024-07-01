@@ -14,11 +14,11 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 📩 Reach me at: syedshahriar99@gmail.com
 
-## Daily Streak
+## My Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee" alt="LeetCode Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false" alt="s-shahriar's Streak" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee" alt="LeetCode Stats" style="margin-right: 10px;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false" alt="s-shahriar's Streak" style="margin-left: 10px;"/>
 </p>
 
 ## Where to Find Me
