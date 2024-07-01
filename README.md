@@ -1,5 +1,7 @@
 ## Hi there 👋
-![Header](./Shahriar.png)
+<p align="center">
+  <img src="./Shahriar.png" alt="Header"/>
+</p>
 
 <!--
 **s-shahriar/s-shahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
