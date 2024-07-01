@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 <p align="center">
   <img src="./Shahriar.png" alt="Header"/>
 </p>
@@ -14,15 +15,23 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 📩 Reach me at: syedshahriar99@gmail.com
 
+## Daily Streak
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee)
-![s-shahriar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false)
-
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/syedshahriar99?theme=dark&font=ABeeZee" alt="LeetCode Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=s-shahriar&theme=dark&hide_border=false" alt="s-shahriar's Streak"/>
+</p>
 
 ## Where to Find Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bin.omar.862852)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-shahriar/)
+<p align="center">
+  <a href="https://www.facebook.com/bin.omar.862852">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.linkedin.com/in/syed-shahriar/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 <!--
 **s-shahriar/s-shahriar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
