@@ -17,7 +17,7 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
   
  - 🌱 &emsp; I’m currently learning **NextJs, Redux, NestJS** <br/><br/>
  - 💬 &emsp; Ask me about **Javascript, ReactJS, NodeJS, ExpressJS** <br/><br/>
- - 📧 &emsp; Reach me anytime: **syedshahriar99@gmail.com* *<br/><br/>
+ - 📧 &emsp; Reach me anytime: *syedshahriar99@gmail.com* *<br/><br/>
 </p>
 
 <br/>
