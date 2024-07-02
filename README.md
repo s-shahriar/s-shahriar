@@ -13,7 +13,7 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
  # About me
  
 <p align="center">
- <img align="right" width="full" src="programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
   
  - 🌱 &emsp; I’m currently learning **NextJs, Redux, NestJS** <br/><br/>
  - 💬 &emsp; Ask me about **Javascript, ReactJS, NodeJS, ExpressJS** <br/><br/>
