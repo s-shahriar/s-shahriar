@@ -2,7 +2,7 @@
   <img src="./Shahriar.png" alt="Header"/>
 </p>
 
-## About Me
+# About Me
 
 💻 **Front-End Development Enthusiast** | 🚀 **Innovative Problem Solver**
 
@@ -10,24 +10,21 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 🤝 I mentor, organize tech events, and foster community growth. I’m seeking opportunities to apply my front-end expertise and problem-solving skills to drive your organization forward. I am actively exploring opportunities to apply my extensive Web Development expertise, precise problem-solving skills, and steadfast work ethic.
 
-## What I am up to....
+# What I am up to....
+ 
+<p align="center">
+ <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
+  
+ - 🌱 &emsp; I’m currently learning **NextJs, Redux, NestJS** <br/><br/>
+ - 💬 &emsp; Ask me about **Javascript, ReactJS, NodeJS, ExpressJS** <br/><br/>
+ - 📧 &emsp; Reach me anytime: **syedshahriar99@gmail.com**<br/><br/>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-shahriar&label=Profile%20views&color=0e75b6&style=flat" alt="s-shahriar" /> </p>
+</p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1; text-align: left;">
-    <p>🌱 &emsp; I’m currently learning <strong>NextJs, Redux, NestJS</strong></p>
-    <p>💬 &emsp; Ask me about <strong>Javascript, ReactJS, NodeJS, ExpressJS</strong></p>
-    <p>📧 &emsp; Reach me anytime: <strong>syedshahriar99@gmail.com</strong></p>
-    <p><img src="https://komarev.com/ghpvc/?username=s-shahriar&label=Profile%20views&color=0e75b6&style=flat" alt="s-shahriar" /></p>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img width="350" src="programmer.gif" alt="Coding gif" />
-  </div>
-</div>
-
+<br/>
 
 
-
-## My Stats
+# My Stats
 
 <table align="center">
   <tr>
@@ -40,7 +37,7 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
   </tr>
 </table>
 
-### Use To Code
+# Use To Code
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
@@ -64,7 +61,7 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 <br/>
 
 
-## Where to Find Me
+# Where to Find Me
 
 <table align="center">
   <tr>
