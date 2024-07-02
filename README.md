@@ -90,6 +90,11 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
         <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
     </td>
+    <td align="center">
+      <a href="https://leetcode.com/syedshahriar99">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+      </a>
+    </td>
   </tr>
 </table>
 
