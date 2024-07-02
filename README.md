@@ -12,22 +12,18 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 ## What I am up to....
 
-<div style="display: flex; align-items: center; justify-content: center; text-align: left;">
-  <div>
-    <ul>
-      <li>🌱 &emsp; I’m currently learning <strong>NextJs, Redux, NestJS</strong></li>
-      <br/>
-      <li>💬 &emsp; Ask me about <strong>Javascript, ReactJS, NodeJS, ExpressJS</strong></li>
-      <br/>
-      <li>📧 &emsp; Reach me anytime: <strong>syedshahriar99@gmail.com</strong></li>
-      <br/>
-      <p><img src="https://komarev.com/ghpvc/?username=s-shahriar&label=Profile%20views&color=0e75b6&style=flat" alt="s-shahriar" /></p>
-    </ul>
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="flex: 1; text-align: left;">
+    <p>🌱 &emsp; I’m currently learning <strong>NextJs, Redux, NestJS</strong></p>
+    <p>💬 &emsp; Ask me about <strong>Javascript, ReactJS, NodeJS, ExpressJS</strong></p>
+    <p>📧 &emsp; Reach me anytime: <strong>syedshahriar99@gmail.com</strong></p>
+    <p><img src="https://komarev.com/ghpvc/?username=s-shahriar&label=Profile%20views&color=0e75b6&style=flat" alt="s-shahriar" /></p>
   </div>
-  <div>
+  <div style="flex: 1; text-align: center;">
     <img width="350" src="programmer.gif" alt="Coding gif" />
   </div>
 </div>
+
 
 
 
