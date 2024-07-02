@@ -24,11 +24,6 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-shahriar&label=Profile%20views&color=0e75b6&style=flat" alt="s-shahriar" /> </p>
 
-- 🌱 I’m currently learning **NextJs, Redux, NestJS**
-
-- 💬 Ask me about **Javascript, ReactJS, NodeJS, ExpressJS**
-
-- 📫 How to reach me **syedshahriar99@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
