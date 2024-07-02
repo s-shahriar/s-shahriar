@@ -10,7 +10,7 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 🤝 I mentor, organize tech events, and foster community growth. I’m seeking opportunities to apply my front-end expertise and problem-solving skills to drive your organization forward. I am actively exploring opportunities to apply my extensive Web Development expertise, precise problem-solving skills, and steadfast work ethic.
 
- # About me
+ # What I am up to....
  
 <p align="center">
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
