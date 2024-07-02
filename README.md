@@ -10,7 +10,7 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
 🤝 I mentor, organize tech events, and foster community growth. I’m seeking opportunities to apply my front-end expertise and problem-solving skills to drive your organization forward. I am actively exploring opportunities to apply my extensive Web Development expertise, precise problem-solving skills, and steadfast work ethic.
 
- # What I am up to....
+## What I am up to....
  
 <p align="center">
  <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
@@ -22,21 +22,6 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 </p>
 
 <br/>
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/syed-shahriar" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/bin.omar.862852" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://leetcode.com/syedshahriar99" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
 
 
 ## My Stats
@@ -92,9 +77,10 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
     </td>
     <td align="center">
       <a href="https://leetcode.com/syedshahriar99">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+        <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
       </a>
     </td>
   </tr>
 </table>
+
 
