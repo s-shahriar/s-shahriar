@@ -11,17 +11,24 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 🤝 I mentor, organize tech events, and foster community growth. I’m seeking opportunities to apply my front-end expertise and problem-solving skills to drive your organization forward. I am actively exploring opportunities to apply my extensive Web Development expertise, precise problem-solving skills, and steadfast work ethic.
 
 ## What I am up to....
- 
-<p align="center">
- <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
-  
- - 🌱 &emsp; I’m currently learning **NextJs, Redux, NestJS** <br/><br/>
- - 💬 &emsp; Ask me about **Javascript, ReactJS, NodeJS, ExpressJS** <br/><br/>
- - 📧 &emsp; Reach me anytime: **syedshahriar99@gmail.com**<br/><br/>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-shahriar&label=Profile%20views&color=0e75b6&style=flat" alt="s-shahriar" /> </p>
-</p>
 
-<br/>
+<div style="display: flex; align-items: center; justify-content: center; text-align: left;">
+  <div>
+    <ul>
+      <li>🌱 &emsp; I’m currently learning <strong>NextJs, Redux, NestJS</strong></li>
+      <br/>
+      <li>💬 &emsp; Ask me about <strong>Javascript, ReactJS, NodeJS, ExpressJS</strong></li>
+      <br/>
+      <li>📧 &emsp; Reach me anytime: <strong>syedshahriar99@gmail.com</strong></li>
+      <br/>
+      <p><img src="https://komarev.com/ghpvc/?username=s-shahriar&label=Profile%20views&color=0e75b6&style=flat" alt="s-shahriar" /></p>
+    </ul>
+  </div>
+  <div>
+    <img width="350" src="programmer.gif" alt="Coding gif" />
+  </div>
+</div>
+
 
 
 ## My Stats
