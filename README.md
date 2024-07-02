@@ -12,12 +12,12 @@ Driven by a passion for web development, I specialize in creating cutting-edge d
 
  # About me
  
-<p>
- <img align="right" width="350" src="programmer.gif" alt="Coding gif" />
+<p align="center">
+ <img align="right" width="full" src="programmer.gif" alt="Coding gif" />
   
  - 🌱 &emsp; I’m currently learning **NextJs, Redux, NestJS** <br/><br/>
  - 💬 &emsp; Ask me about **Javascript, ReactJS, NodeJS, ExpressJS** <br/><br/>
- - 📧 &emsp; Reach me anytime: **syedshahriar99@gmail.com** *<br/><br/>
+ - 📧 &emsp; Reach me anytime: **syedshahriar99@gmail.com**<br/><br/>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-shahriar&label=Profile%20views&color=0e75b6&style=flat" alt="s-shahriar" /> </p>
 </p>
 
